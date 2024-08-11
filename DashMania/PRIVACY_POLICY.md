@@ -2,7 +2,7 @@
 
 DashMania: Adventure World ("we", "our", "us") respects your privacy. This Privacy Policy explains our policy regarding the collection, use, and disclosure of any personal information we receive from users of our game.
 
-### Information We Do Not Collect
+### Data Management
 We do not collect, store, or share any personal information from users of DashMania: Adventure World. This means that your personal data, such as your name, email address, location, or any other information that could be used to identify you, is not gathered or retained by us in any way.
 
 ### Third-Party Services
